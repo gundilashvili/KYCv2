@@ -1,0 +1,7 @@
+{ 
+    "mnemonic": "",
+    "bsc_rpc": "https://bsc-dataseed.binance.org/",   
+    "bsc_rpc_testnet": "https://data-seed-prebsc-1-s1.binance.org:8545/",    
+    "contract_address_testnet": "0x3755019a8CF1D8e2438daC8ACA909558aB090f89",
+    "contract_address": ""    
+}
